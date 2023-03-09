@@ -70,4 +70,4 @@ class SplashScreen:
 
         self.progress.after(1, update)
 
-        self.splash_win.mainloop(
+        self.splash_win.mainloop()
