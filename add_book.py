@@ -447,6 +447,6 @@ class AddBook:
         img_address = filedialog.askopenfilename(initialdir=os.getcwd(), title='Select image', filetype=(
             ("jpg file", "*.jpg"), ("png file", "*.png")))
 
-        return img_address
+        return img_
 
 
