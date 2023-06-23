@@ -362,5 +362,5 @@ class AddStudent:
         if(re.match(regex, email_id)):
             return 1
         else:
-            return 
+            return 0
 
