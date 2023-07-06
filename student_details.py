@@ -185,4 +185,4 @@ class studentDeailsWindow:
             self.label_image1.place(x=440, y=130, width=100, height=100)
 
 
-            self.show_details(
+            self.show_details()
