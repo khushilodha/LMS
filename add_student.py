@@ -1,5 +1,5 @@
 from tkinter import *
-from PIL import Image, ImageTk, ImageFont, ImageDra
+from PIL import Image, ImageTk, ImageFont, ImageDraw
 import global_data as gdt
 from tkinter import ttk
 from tkcalendar import *
