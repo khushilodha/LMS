@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import 
 from PIL import Image, ImageTk, ImageFont, ImageDraw
 import global_data as gdt
 from tkinter import ttk
