@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import Image, ImageTk, ImageFont, ImageDraw
-import global_data as gdt
+import global_data as gd
 from tkinter import ttk
 from tkcalendar import *
 from tkinter import filedialog
