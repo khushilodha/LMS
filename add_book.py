@@ -2,7 +2,7 @@ from tkinter import *
 from PIL import Image, ImageTk
 from tkinter import ttk
 from tkcalendar import *
-from tkinter import filedialo
+from tkinter import filedialog
 import os
 from tkinter import messagebox
 import psycopg2
