@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import Image, ImageTk
-from tkinter import tt
+from tkinter import ttk
 from tkcalendar import *
 from tkinter import filedialog
 import os
