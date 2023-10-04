@@ -10,7 +10,7 @@ class IssueBook:
 
 
     def issue_book_window(self, mainloop):
-        # width and height of the windo
+        # width and height of the window
         self.width = 600
         self.height = 400
         self.main_win_loop = mainloop
