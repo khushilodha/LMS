@@ -6,7 +6,7 @@ from tkinter import messagebox
 import psycopg2
 
 
-class IssueBook:
+class IssueBook
 
 
     def issue_book_window(self, mainloop):
