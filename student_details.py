@@ -5,7 +5,7 @@ from tkinter import messagebox
 import psycopg2
 import os
 
-class studentDeailsWindow:
+classstudentDeailsWindow:
 
     isselected = False
 
