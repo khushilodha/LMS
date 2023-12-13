@@ -8,5 +8,5 @@ setup(
     license='Copyright (c), Manish Kumar',
     author='MANISH KUMAR',
     author_email='justdocodings@gmail.com',
-    description='Library Management System'
+    description='Library Management System
 )
