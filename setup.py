@@ -1,4 +1,4 @@
-from setuptools import setu
+from setuptools import setup
 
 setup(
     name='LMS',
