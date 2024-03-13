@@ -5,7 +5,7 @@ from tkcalendar import *
 from tkinter import filedialog
 import os
 from tkinter import messagebox
-import psycopg2
+import psycopg
 import cv2
 from pyzbar.pyzbar import decode
 from isbntools.app import *
