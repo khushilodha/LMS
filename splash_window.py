@@ -46,7 +46,7 @@ class SplashScreen:
         self.canvas.create_image(0,0,anchor='nw', image=self.new_image)
         self.canvas.create_text(100,self.height-30,text=info, font=("Nirmala UI", "8"), fill="#006600")
 
-        # creating progress bar
+        # creating a progress bar
         self.progress = Progressbar(self.canvas, style="LabeledProgressbar", orient=HORIZONTAL, length=400, mode='determinate')
         self.progress.pack(side=BOTTOM, padx = 30, pady=100)
 
