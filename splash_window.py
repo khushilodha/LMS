@@ -58,7 +58,6 @@ class SplashScreen:
 
 
         # update progressbar
-
         def update():
             for i in range(self.progress['maximum']+1):
                 self.style.configure("LabeledProgressbar", text="{0} %".format(i))
