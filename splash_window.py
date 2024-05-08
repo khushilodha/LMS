@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter.ttk import Progressbar, Style
+from tkinter.ttk import Progressbar, Styl
 from PIL import Image, ImageTk
 import time
 
