@@ -7,7 +7,7 @@ setup(
     packages=[''],
     url='www.justdocodings.blogspot.com',
     license='Copyright (c), Manish Kumar',
-    author='MANISH KUMAR' ,
+    author='MANISH KUMAR',
     author_email='justdocodings@gmail.com',
     description='Library Management System'
     
