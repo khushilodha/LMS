@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup
+setup(
     
     name='LMS',
     version='1.0',
