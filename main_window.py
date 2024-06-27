@@ -55,7 +55,7 @@ class MainWindow:
 
 
         self.lbl_name.configure(text="Librarian  : %s" % username)
-        self.lbl_date.configure(text= "Date        : %s"%(date.today().strftime("%d/%m/%Y")))
+        self.lbl_date.configure(text= "Date : %s"%(date.today().strftime("%d/%m/%Y")))
 
         #******** ********
 
