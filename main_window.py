@@ -1,4 +1,4 @@
-from tkinter import *
+from Tkinter import *
 from tkinter.tix import *
 from PIL import Image, ImageTk
 from datetime import date
