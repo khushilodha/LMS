@@ -46,7 +46,7 @@ class MainWindow:
         self.pic7 = ImageTk.PhotoImage(Image.open("images/logout.png").resize((self.resize_width,self.resize_height),Image.ANTIALIAS))
 
 
-        # show user name and date
+        # show the user name and date
         self.lbl_name = Label(self.main_win, bg="gold", fg="green",font=("Nirmala UI", 10, 'bold'))
         self.lbl_name.place(x=400,y=10)
 
